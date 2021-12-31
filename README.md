@@ -152,7 +152,7 @@
       End Sub
 
 ##### Refactored
-      'Code Source https://github.com/caseychen3605/stock-analysis
+      'Code Source Help Casey Chen, October 2020, Stock Analysis, VBA, https://github.com/caseychen3605/stock-analysis.
       Sub AllStocksAnalysisRefactored()
           Dim startTime As Single
           Dim endTime  As Single
